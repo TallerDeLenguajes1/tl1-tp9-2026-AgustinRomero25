@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AGUS\\.nuget\\packages\\": {}
+    "C:\\Users\\Noah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AGUS\\Desktop\\taller1\\tl1-tp9-2026-AgustinRomero25\\LectorDirectorio\\LectorDirectorio.csproj",
+      "projectUniqueName": "C:\\Users\\Noah\\Desktop\\Taller 1\\tl1-tp9-2026-AgustinRomero25\\LectorDirectorio\\LectorDirectorio.csproj",
       "projectName": "LectorDirectorio",
-      "projectPath": "C:\\Users\\AGUS\\Desktop\\taller1\\tl1-tp9-2026-AgustinRomero25\\LectorDirectorio\\LectorDirectorio.csproj",
-      "packagesPath": "C:\\Users\\AGUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AGUS\\Desktop\\taller1\\tl1-tp9-2026-AgustinRomero25\\LectorDirectorio\\obj\\",
+      "projectPath": "C:\\Users\\Noah\\Desktop\\Taller 1\\tl1-tp9-2026-AgustinRomero25\\LectorDirectorio\\LectorDirectorio.csproj",
+      "packagesPath": "C:\\Users\\Noah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Noah\\Desktop\\Taller 1\\tl1-tp9-2026-AgustinRomero25\\LectorDirectorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AGUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Noah\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

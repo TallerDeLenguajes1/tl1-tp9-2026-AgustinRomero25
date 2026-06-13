@@ -19,7 +19,7 @@ do
         for(int i = 0; i < Carpetas.Length; i++)
         {
             DirectoryInfo Carpeta = new DirectoryInfo(Carpetas[i]);
-            Console.WriteLine(Carpeta.Name);
+            Console.WriteLine($"/{Carpeta.Name}");
         }
         
         StreamWriter Reporte = new StreamWriter("reporte_archivos.csv");

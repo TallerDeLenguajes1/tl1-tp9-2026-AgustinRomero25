@@ -12,3 +12,18 @@ C:\Users\AGUS\Desktop\taller1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\
 C:\Users\AGUS\Desktop\taller1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.pdb
 C:\Users\AGUS\Desktop\taller1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.genruntimeconfig.cache
 C:\Users\AGUS\Desktop\taller1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\ref\LectorDirectorio.dll
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\bin\Debug\net10.0\LectorDirectorio.exe
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\bin\Debug\net10.0\LectorDirectorio.deps.json
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\bin\Debug\net10.0\LectorDirectorio.runtimeconfig.json
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\bin\Debug\net10.0\LectorDirectorio.dll
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\bin\Debug\net10.0\LectorDirectorio.pdb
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.AssemblyInfo.cs
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.sourcelink.json
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.dll
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\refint\LectorDirectorio.dll
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.pdb
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.genruntimeconfig.cache
+C:\Users\Noah\Desktop\Taller 1\tl1-tp9-2026-AgustinRomero25\LectorDirectorio\obj\Debug\net10.0\ref\LectorDirectorio.dll
