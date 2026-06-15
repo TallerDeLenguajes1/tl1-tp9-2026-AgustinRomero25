@@ -22,19 +22,18 @@ do
             Console.WriteLine($"/{Carpeta.Name}");
         }
         
-        StreamWriter Reporte = new StreamWriter("reporte_archivos.csv");
-        Reporte.WriteLine("Nombre  |  Kb  |  Fecha Modificacion");
-
-        for(int j = 0; j < Archivos.Length; j++)
+        using(StreamWriter Reporte = new StreamWriter("reporte_archivos.csv"))
         {
-            FileInfo Archivo = new FileInfo(Archivos[j]);
-            double Kbytes = (double)Archivo.Length / 1024;
-            if (Archivo.Name != "reporte_archivos.csv")
+            Reporte.WriteLine("Nombre  |  Kb  |  Fecha Modificacion");
+
+            for(int j = 0; j < Archivos.Length; j++)
             {
+                FileInfo Archivo = new FileInfo(Archivos[j]);
+                double Kbytes = (double)Archivo.Length / 1024;
+
                 Console.WriteLine($"{Archivo.Name} - {Kbytes:F2} Kb.");
                 Reporte.WriteLine($"{Archivo.Name}  |  {Kbytes:F2} Kb  |  {Archivo.LastWriteTime}");
             }
         }
-        Reporte.Close();
     }
 } while (!Directory.Exists(DirectorioIngresado));
